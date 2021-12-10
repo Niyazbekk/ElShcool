@@ -2,6 +2,8 @@
 
 Electronic School
 
+TECHNOLOGIES STACK: postgresql, myBatis, thymeleaf, Spring Boot
+
 1 Download the project 
 
 2 Open folder
