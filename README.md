@@ -1,8 +1,6 @@
-## ElShcool
+## ElShcool. postgresql, myBatis, thymeleaf, Spring Boot
 
 Electronic School
-
-tech: postgresql, myBatis, thymeleaf, Spring Boot
 
 1 Download the project 
 
