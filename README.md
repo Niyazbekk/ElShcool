@@ -1,6 +1,8 @@
 ## ElShcool. postgresql, myBatis, thymeleaf, Spring Boot
 
+
 |   User Type   | Website User (External) |
+| ------------- | ------------- |
 |      Job      |    Student    |
 |     Gender.   |     Male      |
 |      Age      |       18      |
