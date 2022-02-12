@@ -1,14 +1,21 @@
 ## ElShcool. postgresql, myBatis, thymeleaf, Spring Boot
 
-
 |   User Type   | Website User (External) |
 | ------------- | ------------- |
 |      Job      |    Student    |
-|     Gender.   |     Male      |
+|     Gender   |     Male      |
 |      Age      |       18      |
 |      Name     |  Aibekov Zhansultan      |
 |  Objective |  Zhansultan is a student who wants to gain knowledge. And he needs a solution that will allow him to gain knowledge and that will be intuitive|
 
+
+|   User Type   | Website User (External) |
+| ------------- | ------------- |
+|      Job      |    Teacher    |
+|     Gender   |     Male      |
+|      Age      |       30      |
+|      Name     |  Omarov Daniyar      |
+|  Objective |  Daniyar works as a teacher and he needs a platform that will allow him to teach children and upload lecture material|
 Electronic School
 
 1 Download the project 
