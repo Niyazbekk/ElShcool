@@ -1,10 +1,3 @@
-## ElShcool. postgresql, myBatis, thymeleaf, Spring Boot
-
-In our project we use for Backend : **Java** , **postgresql** , **Spring Boot** , **Spring Data** , **thymeleaf/mustache** , **Spring Security** , **Lombok**
-
-For Frontend : 
-**HTML5** , **CSS3** , **JavaScript/Jquery** .
-
 Electronic School
 
 1 Download the project 
